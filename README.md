@@ -1,17 +1,17 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:0a0520,70:150a30,100:080815&height=260&section=header&text=🔐%20Student%20Credential%20Vault&fontSize=38&fontColor=a855f7&fontAlignY=40&desc=Decentralized%20Credential%20Issuance%20%26%20Verification%20on%20Ethereum%20%7C%20Solidity%20%2B%20React%20%2B%20ethers.js&descAlignY=63&descColor=9333ea&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0a3e,40:2d1b69,70:4a1a8a,100:1a0a3e&height=260&section=header&text=🔐%20Student%20Credential%20Vault&fontSize=38&fontColor=e9d5ff&fontAlignY=40&desc=Decentralized%20Credential%20Issuance%20%26%20Verification%20on%20Ethereum%20%7C%20Solidity%20%2B%20React%20%2B%20ethers.js&descAlignY=63&descColor=c4b5fd&animation=fadeIn)
 
 <br/>
 
-[![Solidity](https://img.shields.io/badge/Solidity-0.8.x-050510?style=for-the-badge&logo=solidity&logoColor=a855f7)](https://soliditylang.org)
-[![Ethereum](https://img.shields.io/badge/Ethereum-Sepolia%20Testnet-050510?style=for-the-badge&logo=ethereum&logoColor=9333ea)](https://ethereum.org)
-[![React](https://img.shields.io/badge/React-18.2-050510?style=for-the-badge&logo=react&logoColor=61dafb)](https://react.dev)
-[![ethers.js](https://img.shields.io/badge/ethers.js-v6.16-050510?style=for-the-badge&logo=ethereum&logoColor=c084fc)](https://ethers.org)
-[![MetaMask](https://img.shields.io/badge/MetaMask-Wallet-050510?style=for-the-badge&logo=metamask&logoColor=f6851b)](https://metamask.io)
-[![Web3](https://img.shields.io/badge/Web3-dApp-050510?style=for-the-badge&logo=web3dotjs&logoColor=a855f7)](https://web3js.readthedocs.io)
-[![License](https://img.shields.io/badge/License-MIT-050510?style=for-the-badge&logoColor=a855f7)](LICENSE)
+[![Solidity](https://img.shields.io/badge/Solidity-0.8.x-6d28d9?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org)
+[![Ethereum](https://img.shields.io/badge/Ethereum-Sepolia%20Testnet-3730a3?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org)
+[![React](https://img.shields.io/badge/React-18.2-0ea5e9?style=for-the-badge&logo=react&logoColor=white)](https://react.dev)
+[![ethers.js](https://img.shields.io/badge/ethers.js-v6.16-7c3aed?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethers.org)
+[![MetaMask](https://img.shields.io/badge/MetaMask-Wallet-e97316?style=for-the-badge&logo=metamask&logoColor=white)](https://metamask.io)
+[![Web3](https://img.shields.io/badge/Web3-dApp-8b5cf6?style=for-the-badge&logo=web3dotjs&logoColor=white)](https://web3js.readthedocs.io)
+[![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge&logoColor=white)](LICENSE)
 
 <br/>
 
@@ -19,10 +19,10 @@
 
 <br/>
 
-![Chain](https://img.shields.io/badge/Blockchain-Ethereum%20Sepolia-a855f7?style=flat-square&labelColor=050510)
-![Contract](https://img.shields.io/badge/Smart%20Contract-StudentCredential.sol-9333ea?style=flat-square&labelColor=050510)
-![Roles](https://img.shields.io/badge/Roles-College%20%7C%20Employer%20%7C%20Student-c084fc?style=flat-square&labelColor=050510)
-![Verify](https://img.shields.io/badge/Verification-Instant%20%26%20Trustless-39ff14?style=flat-square&labelColor=050510)
+![Chain](https://img.shields.io/badge/Blockchain-Ethereum%20Sepolia-a855f7?style=flat-square&labelColor=4c1d95)
+![Contract](https://img.shields.io/badge/Smart%20Contract-StudentCredential.sol-7c3aed?style=flat-square&labelColor=312e81)
+![Roles](https://img.shields.io/badge/Roles-College%20%7C%20Employer%20%7C%20Student-8b5cf6?style=flat-square&labelColor=4c1d95)
+![Verify](https://img.shields.io/badge/Verification-Instant%20%26%20Trustless-16a34a?style=flat-square&labelColor=14532d)
 
 </div>
 
@@ -759,13 +759,13 @@ v4.0 ── PRODUCTION ───────────────────
 
 <div align="center">
 
-![Solidity](https://img.shields.io/badge/Solidity-050510?style=for-the-badge&logo=solidity&logoColor=a855f7)
-![Ethereum](https://img.shields.io/badge/Ethereum-050510?style=for-the-badge&logo=ethereum&logoColor=9333ea)
-![React](https://img.shields.io/badge/React%2018-050510?style=for-the-badge&logo=react&logoColor=61dafb)
-![ethers.js](https://img.shields.io/badge/ethers.js%20v6-050510?style=for-the-badge&logo=ethereum&logoColor=c084fc)
-![MetaMask](https://img.shields.io/badge/MetaMask-050510?style=for-the-badge&logo=metamask&logoColor=f6851b)
-![JavaScript](https://img.shields.io/badge/JavaScript-050510?style=for-the-badge&logo=javascript&logoColor=ffd700)
-![CSS3](https://img.shields.io/badge/CSS3-050510?style=for-the-badge&logo=css3&logoColor=a855f7)
+![Solidity](https://img.shields.io/badge/Solidity-6d28d9?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3730a3?style=for-the-badge&logo=ethereum&logoColor=white)
+![React](https://img.shields.io/badge/React%2018-0ea5e9?style=for-the-badge&logo=react&logoColor=white)
+![ethers.js](https://img.shields.io/badge/ethers.js%20v6-7c3aed?style=for-the-badge&logo=ethereum&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-e97316?style=for-the-badge&logo=metamask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ca8a04?style=for-the-badge&logo=javascript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-7c3aed?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
@@ -777,8 +777,8 @@ v4.0 ── PRODUCTION ───────────────────
 
 **Built with ⛓️ + 🔐 + ❤️ by [Sreyosh Majumder](https://github.com/sreyoshmajumder)**
 
-[![GitHub](https://img.shields.io/badge/GitHub-sreyoshmajumder-050510?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/sreyoshmajumder)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-050510?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-sreyoshmajumder-4f46e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreyoshmajumder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0284c7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 
 > *"Your degree is only as trustworthy as the institution behind it. With blockchain, it's as trustworthy as mathematics itself."*
 
@@ -799,6 +799,6 @@ v4.0 ── PRODUCTION ───────────────────
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:150a30,50:0a0520,100:050510&height=120&section=footer&text=Your%20Credentials.%20On-Chain.%20Forever.&fontSize=16&fontColor=a855f7&fontAlignY=65)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4a1a8a,50:2d1b69,100:1a0a3e&height=120&section=footer&text=Your%20Credentials.%20On-Chain.%20Forever.&fontSize=16&fontColor=e9d5ff&fontAlignY=65)
 
 </div>
