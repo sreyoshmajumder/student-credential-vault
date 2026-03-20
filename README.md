@@ -1,7 +1,10 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0a3e,40:2d1b69,70:4a1a8a,100:1a0a3e&height=260&section=header&text=🔐%20Student%20Credential%20Vault&fontSize=38&fontColor=e9d5ff&fontAlignY=40&desc=Decentralized%20Credential%20Issuance%20%26%20Verification%20on%20Ethereum%20%7C%20Solidity%20%2B%20React%20%2B%20ethers.js&descAlignY=63&descColor=c4b5fd&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0a3e,40:2d1b69,70:4a1a8a,100:1a0a3e&height=220&section=header&text=Student%20Credential%20Vault&fontSize=40&fontColor=e9d5ff&fontAlignY=45&animation=fadeIn)
+
+<h3>🔐 Decentralized Credential Issuance & Verification on Ethereum</h3>
+<p><em>Solidity Smart Contract &nbsp;·&nbsp; React + ethers.js &nbsp;·&nbsp; MetaMask &nbsp;·&nbsp; Sepolia Testnet</em></p>
 
 <br/>
 
